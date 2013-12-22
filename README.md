@@ -3,7 +3,7 @@ Remove Mingle Card Height
 
 This is a [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) script which changes the height of cards on a [Mingle](http://www.thoughtworks.com/products/mingle-agile-project-management) card wall. It removes a bunch of empty space in favor of a more dense view.
 
-For exmaple, this:
+For example, this:
 
 ![before](screenshots/before.png)
 
